@@ -399,7 +399,7 @@ traitlets==4.3.2
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.26.18
 vsts==0.1.25
 vsts-cd-manager==1.0.2
 wcwidth==0.1.7
