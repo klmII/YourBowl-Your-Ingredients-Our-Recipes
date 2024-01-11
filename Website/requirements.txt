@@ -132,7 +132,7 @@ bcrypt==3.2.0
 beautifulsoup4==4.7.1
 bitarray==0.8.3
 bkcharts==0.2
-bleach==3.1.0
+bleach==3.3.0
 bokeh==1.0.4
 boto==2.49.0
 boto3==1.14.58
@@ -211,7 +211,7 @@ javaproperties==0.5.1
 jdcal==1.4
 jedi==0.13.3
 jeepney==0.4.3
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.10.0
 joblib==1.2.0
 jsmin==2.2.2
@@ -301,7 +301,7 @@ portalocker==1.7.1
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
 protobuf==3.18.3
-psutil==5.6.1
+psutil==5.6.6
 py==1.11.0
 py-cpuinfo==5.0.0
 py4j==0.10.9
@@ -340,7 +340,7 @@ pytz==2019.1
 PyWavelets==1.0.2
 pywin32==301
 pywinpty==0.5.5
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==18.0.0
 QtAwesome==0.5.7
 qtconsole==4.4.3
