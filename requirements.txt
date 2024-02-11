@@ -153,7 +153,7 @@ conda-build==3.17.8
 conda-verify==3.1.1
 configparser==3.7.4
 contextlib2==0.5.5
-cryptography==41.0.6
+cryptography==42.0.0
 cycler==0.10.0
 Cython==0.29.14
 cytoolz==0.9.0.1
@@ -186,7 +186,7 @@ google-auth==1.22.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 greenlet==0.4.15
-grpcio==1.53.0
+grpcio==1.53.2
 gunicorn==19.9.0
 h5py==2.10.0
 heapdict==1.0.0
@@ -217,13 +217,13 @@ joblib==1.2.0
 jsmin==2.2.2
 json-logging-py==0.2
 jsondiff==1.2.0
-jsonpickle==1.4.1
+jsonpickle==1.5.0
 jsonschema==3.0.1
 jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.11.2
-jupyterlab==1.2.21
+jupyterlab==3.6.7
 jupyterlab-server==0.2.0
 Keras-Preprocessing==1.1.2
 keras2onnx==1.6.0
