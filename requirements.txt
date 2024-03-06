@@ -273,7 +273,7 @@ numpy==1.22.0
 numpydoc==0.8.0
 oauthlib==3.1.0
 olefile==0.46
-onnx==1.13.0
+onnx==1.15.0
 onnxconverter-common==1.6.0
 onnxmltools==1.4.1
 onnxruntime==1.0.0
